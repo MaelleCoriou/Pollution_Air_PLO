@@ -1,0 +1,113 @@
+nom_dept;nom_com;code_insee_com;nom_station;code_station;typologie;nom_poll;id_poll_ue;valeur;unite;metrique;date_debut;date_fin;statut_valid;x_reglementaire;y_reglementaire;source
+Loire-Atlantique;Frossay;44061;Frossay;FR23068;rural-nearcity;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;326851.682360974;6694673.19531676;Air Pays de la Loire
+Loire-Atlantique;Saint-Étienne-de-Montluc;44158;St-Etienne de Montluc;FR23070;suburban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;338676.423909036;6697925.91450153;Air Pays de la Loire
+Maine-et-Loire;Cholet;49099;St-Exupéry;FR23078;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;405324.492576865;6668979.67096129;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Chauvinière;FR23107;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;354313.235770181;6693636.21956337;Air Pays de la Loire
+Loire-Atlantique;Saint-Nazaire;44184;Blum;FR23110;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;303302.16439038;6698059.67152604;Air Pays de la Loire
+Maine-et-Loire;Angers;49007;Beaux-Arts;FR23120;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;432231.149204996;6713600.72883131;Air Pays de la Loire
+Mayenne;Laval;53130;Mazagran;FR23123;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;419447.05513753;6781027.24113957;Air Pays de la Loire
+Vendée;La Tardière;85289;La Tardière;FR23124;rural-remote;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;413852.842080118;6624178.29807408;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Victor-Hugo;FR23140;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;355542.164899884;6688165.00491344;Air Pays de la Loire
+Vendée;La Roche-sur-Yon;85191;Delacroix;FR23152;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;360919.202113302;6627370.06337309;Air Pays de la Loire
+Mayenne;Saint-Denis-d'Anjou;53210;St-Denis d'Anjou;FR23177;rural-regional;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;442146.25739316;6748729.60008223;Air Pays de la Loire
+Loire-Atlantique;Donges;44052;Plessis;FR23178;suburban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;317521.340900912;6703228.09520877;Air Pays de la Loire
+Sarthe;Le Mans;72181;Sources;FR23182;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;492698.552265724;6767064.74857554;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Bouteillerie;FR23188;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;356823.836141761;6690071.40916714;Air Pays de la Loire
+Loire-Atlantique;Rezé;44143;Trentemoult;FR23238;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;353300.207665084;6687156.52659728;Air Pays de la Loire
+Loire-Atlantique;Bouguenais;44020;Les Couëts;FR23239;urban;PM10;5;;µg/m3;mensuelle;2020-10-01 00:00:00+00:00;2020-11-01 00:00:00+00:00;False;352504.917981318;6686287.29081938;Air Pays de la Loire
+Loire-Atlantique;Frossay;44061;Frossay;FR23068;rural-nearcity;PM10;5;16.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;326851.682360974;6694673.19531676;Air Pays de la Loire
+Loire-Atlantique;Saint-Étienne-de-Montluc;44158;St-Etienne de Montluc;FR23070;suburban;PM10;5;11.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;338676.423909036;6697925.91450153;Air Pays de la Loire
+Maine-et-Loire;Cholet;49099;St-Exupéry;FR23078;urban;PM10;5;15.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;405324.492576865;6668979.67096129;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Chauvinière;FR23107;urban;PM10;5;13.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;354313.235770181;6693636.21956337;Air Pays de la Loire
+Loire-Atlantique;Saint-Nazaire;44184;Blum;FR23110;urban;PM10;5;12.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;303302.16439038;6698059.67152604;Air Pays de la Loire
+Maine-et-Loire;Angers;49007;Beaux-Arts;FR23120;urban;PM10;5;15.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;432231.149204996;6713600.72883131;Air Pays de la Loire
+Mayenne;Laval;53130;Mazagran;FR23123;urban;PM10;5;14.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;419447.05513753;6781027.24113957;Air Pays de la Loire
+Vendée;La Tardière;85289;La Tardière;FR23124;rural-remote;PM10;5;14.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;413852.842080118;6624178.29807408;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Victor-Hugo;FR23140;urban;PM10;5;19.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;355542.164899884;6688165.00491344;Air Pays de la Loire
+Vendée;La Roche-sur-Yon;85191;Delacroix;FR23152;urban;PM10;5;13.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;360919.202113302;6627370.06337309;Air Pays de la Loire
+Mayenne;Saint-Denis-d'Anjou;53210;St-Denis d'Anjou;FR23177;rural-regional;PM10;5;16.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;442146.25739316;6748729.60008223;Air Pays de la Loire
+Loire-Atlantique;Donges;44052;Plessis;FR23178;suburban;PM10;5;15.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;317521.340900912;6703228.09520877;Air Pays de la Loire
+Sarthe;Le Mans;72181;Sources;FR23182;urban;PM10;5;15.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;492698.552265724;6767064.74857554;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Bouteillerie;FR23188;urban;PM10;5;17.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;356823.836141761;6690071.40916714;Air Pays de la Loire
+Loire-Atlantique;Rezé;44143;Trentemoult;FR23238;urban;PM10;5;17.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;353300.207665084;6687156.52659728;Air Pays de la Loire
+Loire-Atlantique;Bouguenais;44020;Les Couëts;FR23239;urban;PM10;5;15.0;µg/m3;mensuelle;2020-09-01 00:00:00+00:00;2020-10-01 00:00:00+00:00;True;352504.917981318;6686287.29081938;Air Pays de la Loire
+Loire-Atlantique;Frossay;44061;Frossay;FR23068;rural-nearcity;PM10;5;11.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;326851.682360974;6694673.19531676;Air Pays de la Loire
+Loire-Atlantique;Saint-Étienne-de-Montluc;44158;St-Etienne de Montluc;FR23070;suburban;PM10;5;6.6;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;338676.423909036;6697925.91450153;Air Pays de la Loire
+Maine-et-Loire;Cholet;49099;St-Exupéry;FR23078;urban;PM10;5;8.8;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;405324.492576865;6668979.67096129;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Chauvinière;FR23107;urban;PM10;5;10.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;354313.235770181;6693636.21956337;Air Pays de la Loire
+Loire-Atlantique;Saint-Nazaire;44184;Blum;FR23110;urban;PM10;5;12.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;303302.16439038;6698059.67152604;Air Pays de la Loire
+Maine-et-Loire;Angers;49007;Beaux-Arts;FR23120;urban;PM10;5;13.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;432231.149204996;6713600.72883131;Air Pays de la Loire
+Mayenne;Laval;53130;Mazagran;FR23123;urban;PM10;5;12.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;419447.05513753;6781027.24113957;Air Pays de la Loire
+Vendée;La Tardière;85289;La Tardière;FR23124;rural-remote;PM10;5;11.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;413852.842080118;6624178.29807408;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Victor-Hugo;FR23140;urban;PM10;5;15.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;355542.164899884;6688165.00491344;Air Pays de la Loire
+Vendée;La Roche-sur-Yon;85191;Delacroix;FR23152;urban;PM10;5;11.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;360919.202113302;6627370.06337309;Air Pays de la Loire
+Mayenne;Saint-Denis-d'Anjou;53210;St-Denis d'Anjou;FR23177;rural-regional;PM10;5;;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;False;442146.25739316;6748729.60008223;Air Pays de la Loire
+Loire-Atlantique;Donges;44052;Plessis;FR23178;suburban;PM10;5;14.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;317521.340900912;6703228.09520877;Air Pays de la Loire
+Sarthe;Le Mans;72181;Sources;FR23182;urban;PM10;5;14.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;492698.552265724;6767064.74857554;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Bouteillerie;FR23188;urban;PM10;5;14.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;356823.836141761;6690071.40916714;Air Pays de la Loire
+Loire-Atlantique;Rezé;44143;Trentemoult;FR23238;urban;PM10;5;13.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;353300.207665084;6687156.52659728;Air Pays de la Loire
+Loire-Atlantique;Bouguenais;44020;Les Couëts;FR23239;urban;PM10;5;12.0;µg/m3;mensuelle;2020-08-01 00:00:00+00:00;2020-09-01 00:00:00+00:00;True;352504.917981318;6686287.29081938;Air Pays de la Loire
+Loire-Atlantique;Frossay;44061;Frossay;FR23068;rural-nearcity;PM10;5;11.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;326851.682360974;6694673.19531676;Air Pays de la Loire
+Loire-Atlantique;Saint-Étienne-de-Montluc;44158;St-Etienne de Montluc;FR23070;suburban;PM10;5;9.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;338676.423909036;6697925.91450153;Air Pays de la Loire
+Maine-et-Loire;Cholet;49099;St-Exupéry;FR23078;urban;PM10;5;12.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;405324.492576865;6668979.67096129;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Chauvinière;FR23107;urban;PM10;5;9.8;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;354313.235770181;6693636.21956337;Air Pays de la Loire
+Loire-Atlantique;Saint-Nazaire;44184;Blum;FR23110;urban;PM10;5;12.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;303302.16439038;6698059.67152604;Air Pays de la Loire
+Maine-et-Loire;Angers;49007;Beaux-Arts;FR23120;urban;PM10;5;14.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;432231.149204996;6713600.72883131;Air Pays de la Loire
+Mayenne;Laval;53130;Mazagran;FR23123;urban;PM10;5;11.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;419447.05513753;6781027.24113957;Air Pays de la Loire
+Vendée;La Tardière;85289;La Tardière;FR23124;rural-remote;PM10;5;13.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;413852.842080118;6624178.29807408;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Victor-Hugo;FR23140;urban;PM10;5;17.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;355542.164899884;6688165.00491344;Air Pays de la Loire
+Vendée;La Roche-sur-Yon;85191;Delacroix;FR23152;urban;PM10;5;12.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;360919.202113302;6627370.06337309;Air Pays de la Loire
+Mayenne;Saint-Denis-d'Anjou;53210;St-Denis d'Anjou;FR23177;rural-regional;PM10;5;;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;False;442146.25739316;6748729.60008223;Air Pays de la Loire
+Loire-Atlantique;Donges;44052;Plessis;FR23178;suburban;PM10;5;14.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;317521.340900912;6703228.09520877;Air Pays de la Loire
+Sarthe;Le Mans;72181;Sources;FR23182;urban;PM10;5;13.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;492698.552265724;6767064.74857554;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Bouteillerie;FR23188;urban;PM10;5;15.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;356823.836141761;6690071.40916714;Air Pays de la Loire
+Loire-Atlantique;Rezé;44143;Trentemoult;FR23238;urban;PM10;5;14.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;353300.207665084;6687156.52659728;Air Pays de la Loire
+Loire-Atlantique;Bouguenais;44020;Les Couëts;FR23239;urban;PM10;5;13.0;µg/m3;mensuelle;2020-07-01 00:00:00+00:00;2020-08-01 00:00:00+00:00;True;352504.917981318;6686287.29081938;Air Pays de la Loire
+Loire-Atlantique;Frossay;44061;Frossay;FR23068;rural-nearcity;PM10;5;9.8;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;326851.682360974;6694673.19531676;Air Pays de la Loire
+Loire-Atlantique;Saint-Étienne-de-Montluc;44158;St-Etienne de Montluc;FR23070;suburban;PM10;5;8.9;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;338676.423909036;6697925.91450153;Air Pays de la Loire
+Maine-et-Loire;Cholet;49099;St-Exupéry;FR23078;urban;PM10;5;12.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;405324.492576865;6668979.67096129;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Chauvinière;FR23107;urban;PM10;5;8.3;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;354313.235770181;6693636.21956337;Air Pays de la Loire
+Loire-Atlantique;Saint-Nazaire;44184;Blum;FR23110;urban;PM10;5;12.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;303302.16439038;6698059.67152604;Air Pays de la Loire
+Maine-et-Loire;Angers;49007;Beaux-Arts;FR23120;urban;PM10;5;12.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;432231.149204996;6713600.72883131;Air Pays de la Loire
+Mayenne;Laval;53130;Mazagran;FR23123;urban;PM10;5;9.6;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;419447.05513753;6781027.24113957;Air Pays de la Loire
+Vendée;La Tardière;85289;La Tardière;FR23124;rural-remote;PM10;5;10.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;413852.842080118;6624178.29807408;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Victor-Hugo;FR23140;urban;PM10;5;16.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;355542.164899884;6688165.00491344;Air Pays de la Loire
+Vendée;La Roche-sur-Yon;85191;Delacroix;FR23152;urban;PM10;5;11.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;360919.202113302;6627370.06337309;Air Pays de la Loire
+Mayenne;Saint-Denis-d'Anjou;53210;St-Denis d'Anjou;FR23177;rural-regional;PM10;5;11.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;442146.25739316;6748729.60008223;Air Pays de la Loire
+Loire-Atlantique;Donges;44052;Plessis;FR23178;suburban;PM10;5;11.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;317521.340900912;6703228.09520877;Air Pays de la Loire
+Sarthe;Le Mans;72181;Sources;FR23182;urban;PM10;5;12.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;492698.552265724;6767064.74857554;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Bouteillerie;FR23188;urban;PM10;5;13.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;356823.836141761;6690071.40916714;Air Pays de la Loire
+Loire-Atlantique;Rezé;44143;Trentemoult;FR23238;urban;PM10;5;13.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;353300.207665084;6687156.52659728;Air Pays de la Loire
+Loire-Atlantique;Bouguenais;44020;Les Couëts;FR23239;urban;PM10;5;12.0;µg/m3;mensuelle;2020-06-01 00:00:00+00:00;2020-07-01 00:00:00+00:00;True;352504.917981318;6686287.29081938;Air Pays de la Loire
+Loire-Atlantique;Frossay;44061;Frossay;FR23068;rural-nearcity;PM10;5;13.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;326851.682360974;6694673.19531676;Air Pays de la Loire
+Loire-Atlantique;Saint-Étienne-de-Montluc;44158;St-Etienne de Montluc;FR23070;suburban;PM10;5;12.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;338676.423909036;6697925.91450153;Air Pays de la Loire
+Maine-et-Loire;Cholet;49099;St-Exupéry;FR23078;urban;PM10;5;15.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;405324.492576865;6668979.67096129;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Chauvinière;FR23107;urban;PM10;5;10.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;354313.235770181;6693636.21956337;Air Pays de la Loire
+Loire-Atlantique;Saint-Nazaire;44184;Blum;FR23110;urban;PM10;5;15.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;303302.16439038;6698059.67152604;Air Pays de la Loire
+Maine-et-Loire;Angers;49007;Beaux-Arts;FR23120;urban;PM10;5;14.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;432231.149204996;6713600.72883131;Air Pays de la Loire
+Mayenne;Laval;53130;Mazagran;FR23123;urban;PM10;5;14.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;419447.05513753;6781027.24113957;Air Pays de la Loire
+Vendée;La Tardière;85289;La Tardière;FR23124;rural-remote;PM10;5;12.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;413852.842080118;6624178.29807408;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Victor-Hugo;FR23140;urban;PM10;5;14.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;355542.164899884;6688165.00491344;Air Pays de la Loire
+Vendée;La Roche-sur-Yon;85191;Delacroix;FR23152;urban;PM10;5;13.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;360919.202113302;6627370.06337309;Air Pays de la Loire
+Mayenne;Saint-Denis-d'Anjou;53210;St-Denis d'Anjou;FR23177;rural-regional;PM10;5;14.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;442146.25739316;6748729.60008223;Air Pays de la Loire
+Loire-Atlantique;Donges;44052;Plessis;FR23178;suburban;PM10;5;14.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;317521.340900912;6703228.09520877;Air Pays de la Loire
+Sarthe;Le Mans;72181;Sources;FR23182;urban;PM10;5;15.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;492698.552265724;6767064.74857554;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Bouteillerie;FR23188;urban;PM10;5;15.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;356823.836141761;6690071.40916714;Air Pays de la Loire
+Loire-Atlantique;Rezé;44143;Trentemoult;FR23238;urban;PM10;5;16.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;353300.207665084;6687156.52659728;Air Pays de la Loire
+Loire-Atlantique;Bouguenais;44020;Les Couëts;FR23239;urban;PM10;5;15.0;µg/m3;mensuelle;2020-05-01 00:00:00+00:00;2020-06-01 00:00:00+00:00;True;352504.917981318;6686287.29081938;Air Pays de la Loire
+Loire-Atlantique;Frossay;44061;Frossay;FR23068;rural-nearcity;PM10;5;19.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;326851.682360974;6694673.19531676;Air Pays de la Loire
+Loire-Atlantique;Saint-Étienne-de-Montluc;44158;St-Etienne de Montluc;FR23070;suburban;PM10;5;16.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;338676.423909036;6697925.91450153;Air Pays de la Loire
+Maine-et-Loire;Cholet;49099;St-Exupéry;FR23078;urban;PM10;5;20.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;405324.492576865;6668979.67096129;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Chauvinière;FR23107;urban;PM10;5;15.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;354313.235770181;6693636.21956337;Air Pays de la Loire
+Loire-Atlantique;Saint-Nazaire;44184;Blum;FR23110;urban;PM10;5;19.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;303302.16439038;6698059.67152604;Air Pays de la Loire
+Maine-et-Loire;Angers;49007;Beaux-Arts;FR23120;urban;PM10;5;19.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;432231.149204996;6713600.72883131;Air Pays de la Loire
+Mayenne;Laval;53130;Mazagran;FR23123;urban;PM10;5;20.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;419447.05513753;6781027.24113957;Air Pays de la Loire
+Vendée;La Tardière;85289;La Tardière;FR23124;rural-remote;PM10;5;16.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;413852.842080118;6624178.29807408;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Victor-Hugo;FR23140;urban;PM10;5;19.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;355542.164899884;6688165.00491344;Air Pays de la Loire
+Vendée;La Roche-sur-Yon;85191;Delacroix;FR23152;urban;PM10;5;19.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;360919.202113302;6627370.06337309;Air Pays de la Loire
+Mayenne;Saint-Denis-d'Anjou;53210;St-Denis d'Anjou;FR23177;rural-regional;PM10;5;19.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;442146.25739316;6748729.60008223;Air Pays de la Loire
+Loire-Atlantique;Donges;44052;Plessis;FR23178;suburban;PM10;5;19.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;317521.340900912;6703228.09520877;Air Pays de la Loire
+Sarthe;Le Mans;72181;Sources;FR23182;urban;PM10;5;20.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;492698.552265724;6767064.74857554;Air Pays de la Loire
+Loire-Atlantique;Nantes;44109;Bouteillerie;FR23188;urban;PM10;5;20.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;356823.836141761;6690071.40916714;Air Pays de la Loire
+Loire-Atlantique;Rezé;44143;Trentemoult;FR23238;urban;PM10;5;21.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;353300.207665084;6687156.52659728;Air Pays de la Loire
+Loire-Atlantique;Bouguenais;44020;Les Couëts;FR23239;urban;PM10;5;20.0;µg/m3;mensuelle;2020-04-01 00:00:00+00:00;2020-05-01 00:00:00+00:00;True;352504.917981318;6686287.29081938;Air Pays de la Loire

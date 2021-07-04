@@ -1,0 +1,216 @@
+nom_departement;nom_zone;nom_station;code_station;polluant;niveau;unite;mesure;etat;date;TZ
+Mayenne;Laval;Mazagran;123;PM10;16;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;20;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;14;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;10;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;11;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;12;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;14;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;11;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;21;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;12;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;19;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;17;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Mayenne;Laval;Mazagran;123;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;17;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;19;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;15;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;12;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;12;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;12;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;12;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;12;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;20;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;12;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;17;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;17;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Loire-Atlantique;Saint-Nazaire;Blum;110;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;17;microg/m3;"moyenne mensuelle";B;2020-03-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;20;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;15;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;12;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;13;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;14;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;15;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;12;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;20;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;11;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;16;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;17;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Sarthe;"Le Mans";Sources;182;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;21;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;21;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;16;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;13;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;14;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;13;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;17;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;16;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;26;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;18;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;26;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;21;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Loire-Atlantique;Nantes;Trentemoult;238;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;17;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;19;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;14;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;11;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;;;"moyenne mensuelle";;2020-07-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;;;"moyenne mensuelle";;2020-08-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;16;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;14;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;22;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;13;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;19;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;21;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Mayenne;Mayenne;"Saint-Denis d'Anjou";177;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;18;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;19;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;14;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;16;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;17;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;15;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;19;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;16;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;24;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;14;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;22;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;20;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Loire-Atlantique;Nantes;"Victor Hugo";140;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;20;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;20;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;15;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;12;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;13;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;12;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;15;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;14;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;25;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;14;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;25;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;21;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Loire-Atlantique;Nantes;"Les Couëts";239;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;17;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;19;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;14;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;12;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;14;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;13;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;15;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;13;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;20;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;11;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;16;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;17;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+"Maine et Loire";Angers;"Beaux Arts";120;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;18;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;20;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;15;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;12;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;12;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;9;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;15;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;13;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;20;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;15;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;19;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;18;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+"Maine et Loire";Cholet;Saint-Exupery;78;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;17;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;19;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;14;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;11;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;14;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;14;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;15;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;14;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;18;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;13;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;19;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;17;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Loire-Atlantique;"Basse Loire";Plessis;178;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;14;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;16;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;12;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;10;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;13;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;11;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;14;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;10;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;14;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;10;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;14;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;15;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Vendée;Vendée;"La Tardière";124;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;16;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;19;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;13;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;10;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;11;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;11;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;16;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;12;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;17;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;10;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;19;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;18;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Loire-Atlantique;"Basse Loire";Frossay;68;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;16;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;15;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;10;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;8;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;10;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;10;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;13;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;11;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;21;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;11;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;19;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;15;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Loire-Atlantique;Nantes;Chauvinière;107;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;18;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;20;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;15;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;13;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;15;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;14;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;17;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;14;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;22;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;13;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;21;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;18;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Loire-Atlantique;Nantes;Bouteillerie;188;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;15;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;19;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;13;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;11;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;12;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;11;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;13;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;12;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;18;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;13;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;19;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;18;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Vendée;"La Roche-sur-Yon";Delacroix;152;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;16;microg/m3;"moyenne mensuelle";V;2020-03-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;16;microg/m3;"moyenne mensuelle";V;2020-04-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;12;microg/m3;"moyenne mensuelle";V;2020-05-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;9;microg/m3;"moyenne mensuelle";V;2020-06-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;9;microg/m3;"moyenne mensuelle";V;2020-07-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;7;microg/m3;"moyenne mensuelle";V;2020-08-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;11;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;9;microg/m3;"moyenne mensuelle";V;2020-10-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;15;microg/m3;"moyenne mensuelle";V;2020-11-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;9;microg/m3;"moyenne mensuelle";V;2020-12-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;16;microg/m3;"moyenne mensuelle";V;2021-01-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;18;microg/m3;"moyenne mensuelle";V;2021-02-01;UTC
+Loire-Atlantique;"Basse Loire";"St-Etienne de Montluc";70;PM10;;;"moyenne mensuelle";;2021-03-01;UTC
+Loire-Atlantique;"Basse Loire";"La came";249;PM10;13;microg/m3;"moyenne mensuelle";V;2020-09-01;UTC
+Loire-Atlantique;"Basse Loire";"La came";249;PM10;;;"moyenne mensuelle";;2020-10-01;UTC
+Loire-Atlantique;"Basse Loire";"La came";249;PM10;;;"moyenne mensuelle";;2020-11-01;UTC
+Loire-Atlantique;"Basse Loire";"La came";249;PM10;;;"moyenne mensuelle";;2020-12-01;UTC
+Loire-Atlantique;"Basse Loire";"La came";249;PM10;;;"moyenne mensuelle";;2021-01-01;UTC
+Loire-Atlantique;"Basse Loire";"La came";249;PM10;;;"moyenne mensuelle";;2021-02-01;UTC
+Loire-Atlantique;"Basse Loire";"La came";249;PM10;;;"moyenne mensuelle";;2021-03-01;UTC

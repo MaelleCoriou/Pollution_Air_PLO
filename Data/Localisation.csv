@@ -1,0 +1,25 @@
+nom_departement;nom_com;code_insee_com;nom_station;code_station;typologie;x_reglementaire;y_reglementaire
+Loire-Atlantique;Donges;44052;Ampère;1;suburban;316466.782210571;6703891.20986053
+Loire-Atlantique;Donges;44052;Mégretais;3;suburban;319631.265310248;6703516.892939799
+Loire-Atlantique;Donges;44052;Bossènes;46;suburban;315480.257937148;6702714.07999788
+Loire-Atlantique;Frossay;44061;Frossay;68;rural-nearcity;326851.68236097397;6694673.19531676
+Loire-Atlantique;Saint-Étienne-de-Montluc;44158;St-Etienne de Montluc;70;suburban;338676.42390903604;6697925.91450153
+Loire-Atlantique;Trignac;44210;Trignac;75;suburban;308186.02080619603;6703473.39112614
+Maine-et-Loire;Cholet;49099;St-Exupéry;78;urban;405324.492576865;6668979.67096129
+Loire-Atlantique;Nantes;44109;Chauvinière;107;urban;354313.235770181;6693636.21956337
+Loire-Atlantique;Saint-Nazaire;44184;Blum;110;urban;303302.16439038;6698059.67152604
+Maine-et-Loire;Angers;49007;Beaux-Arts;120;urban;432231.149204996;6713600.72883131
+Mayenne;Laval;53130;Mazagran;123;urban;419447.05513753;6781027.24113957
+Vendée;La Tardière;85289;La Tardière;124;rural-remote;413852.84208011796;6624178.29807408
+Loire-Atlantique;Nantes;44109;Victor-Hugo;140;urban;355542.16489988397;6688165.00491344
+Maine-et-Loire;Angers;49007;Appentis;150;urban;432564.458384405;6711233.09728291
+Vendée;La Roche-sur-Yon;85191;Delacroix;152;urban;360919.202113302;6627370.06337309
+Loire-Atlantique;Montoir-de-Bretagne;44103;Montoir-de-Bretagne;153;suburban;311238.6773168;6705004.85914884
+Sarthe;Le Mans;72181;Guédou;174;urban;490882.915323286;6769108.85711881
+Mayenne;Saint-Denis-d'Anjou;53210;St-Denis d'Anjou;177;rural-regional;442146.25739316;6748729.60008223
+Loire-Atlantique;Saint-Nazaire;44184;Parc paysager;181;urban;305403.885354155;6698924.13470394
+Sarthe;Le Mans;72181;Sources;182;urban;492698.552265724;6767064.74857554
+Loire-Atlantique;Nantes;44109;Bouteillerie;188;urban;356823.83614176104;6690071.40916714
+Loire-Atlantique;Rezé;44143;Trentemoult;238;urban;353300.207665084;6687156.52659728
+Loire-Atlantique;Bouguenais;44020;Les Couëts;239;urban;352504.91798131797;6686287.29081938
+Loire-Atlantique;Donges;44052;Plessis;178;suburban;317521.340900912;6703228.09520877
